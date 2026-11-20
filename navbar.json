@@ -1,0 +1,38 @@
+[
+    {
+        "id": "index",
+        "title": "Anasayfa",
+        "url": "index.php",
+        "visible": "1"
+    },
+    {
+        "id": "committees",
+        "title": "Komiteler",
+        "url": "committees.php",
+        "visible": "1"
+    },
+    {
+        "id": "executive",
+        "title": "Yönetim Kurulu",
+        "url": "executive.php",
+        "visible": "1"
+    },
+    {
+        "id": "organization",
+        "title": "Organizasyon Ekibi",
+        "url": "organization.php",
+        "visible": "1"
+    },
+    {
+        "id": "apply",
+        "title": "Başvuru",
+        "url": "apply.php",
+        "visible": "1"
+    },
+    {
+        "id": "contact",
+        "title": "İletişim",
+        "url": "contact.php",
+        "visible": "1"
+    }
+]

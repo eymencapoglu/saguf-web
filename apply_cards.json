@@ -1,0 +1,20 @@
+[
+    {
+        "id": "card_1",
+        "title": "Delege Başvurusu",
+        "description": "SAGUF’26’ya bireysel delege olarak katılarak komitenizde güncel meseleleri tartışın, çözüm odaklı karar taslakları hazırlayın ve müzakere ile diplomasi süreçlerinde uygulamalı deneyim edinin.",
+        "fee": "1000 TL",
+        "button_text": "Başvur",
+        "redirect_url": "https:\/\/forms.gle\/DbD2ttMwecczmdH96",
+        "active": false
+    },
+    {
+        "id": "card_2",
+        "title": "Delegasyon Başvurusu",
+        "description": "SAGUF’26’ya okul delegasyonu veya grup olarak katılarak konferansa birlikte katılım sağlayabilirsiniz. Okullar ve toplu başvurular için özel katılım imkânları ve süreçleri sunulmaktadır.",
+        "fee": "950 TL",
+        "button_text": "Başvur",
+        "redirect_url": "https:\/\/forms.gle\/DbD2ttMwecczmdH96",
+        "active": false
+    }
+]

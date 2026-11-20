@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block indexing of administrative panels and security logs
+Disallow: /admin/
+Disallow: /uploads/rate_limit/
+
+Sitemap: https://saguf.org/sitemap.xml

@@ -1,0 +1,32 @@
+[
+    {
+        "page_id": "committees.php",
+        "title": "KOMİTELER",
+        "subtitle": "SAGUF'26 kapsamında delege ve komite başkanlarımızın çalışacağı alanlar",
+        "image": "assets/images/sagufkomite.jpeg"
+    },
+    {
+        "page_id": "organization.php",
+        "title": "ORGANİZASYON EKİBİ",
+        "subtitle": "SAGUF'26 Organizasyon Yönetim Ekibimiz ve Departmanlarımız",
+        "image": "assets/images/saguf_organization.jpeg"
+    },
+    {
+        "page_id": "executive.php",
+        "title": "YÖNETİM KURULU",
+        "subtitle": "SAGUF'26 Etkinliğini düzenleyen ve koordine eden yönetim ekibimiz",
+        "image": "assets/images/sagufyonetim.jpeg"
+    },
+    {
+        "page_id": "apply.php",
+        "title": "ŞİMDİ BAŞVUR",
+        "subtitle": "SAGUF'26'YA KATIL",
+        "image": "uploads/banners/banner_6a46448b135ae3.05854708.jpeg"
+    },
+    {
+        "page_id": "contact.php",
+        "title": "İLETİŞİM",
+        "subtitle": "BİZE ULAŞIN",
+        "image": "uploads/banners/banner_6a465da8bc4b20.05739710.jpeg"
+    }
+]

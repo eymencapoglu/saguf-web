@@ -1,0 +1,16 @@
+[
+    {
+        "id": "com_6a36dda795511",
+        "name": "OZEL KOMİTE",
+        "description": "Komiteyi divana devrediyorum",
+        "cover_image": "uploads\/covers\/6a36dda7950d7.png",
+        "chair_name": "Ege Zorlu",
+        "chair_title": "Komite Başkanı",
+        "chair_photo": "",
+        "co_chair_name": "Press Zorlu",
+        "co_chair_title": "Co-Chair",
+        "co_chair_photo": "",
+        "study_guide": "",
+        "active": true
+    }
+]
